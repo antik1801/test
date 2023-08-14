@@ -1,5 +1,0 @@
-{{#user}
-Name: Gazi Ehsanul Haque
-Skills: HTML, CSS, JS, Next.js
-Email: antik.edu@gmail.com
-{{/user}}
